@@ -1,0 +1,3 @@
+[submodule "cs5489-deploy"]
+	path = cs5489-deploy
+	url = git@gh:dive4dec/cs5489-deploy.git
