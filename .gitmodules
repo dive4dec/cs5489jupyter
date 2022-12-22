@@ -1,3 +1,6 @@
 [submodule "cs5489-deploy"]
 	path = cs5489-deploy
 	url = git@gh:dive4dec/cs5489-deploy.git
+[submodule "docker-stacks"]
+	path = docker-stacks
+	url = https://github.com/dive4dec/docker-stacks.git
